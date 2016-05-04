@@ -1,0 +1,27 @@
+.square {
+  width: 150px;
+  height: 150px;
+  float: left;
+  margin-left: 10px;
+  border: 2px solid black;
+}
+#red {
+  background-color: red;
+
+}
+#green {
+  background-color: green;
+}
+#yellow {
+    background-color: yellow;
+}
+#blue {
+    background-color: blue;
+}
+#message {
+  font-size: 30px;
+}
+#color {
+  font-weight: 900;
+  font-size: 30px;
+}
