@@ -1,9 +1,13 @@
+body {
+  background-color: peachpuff; 
+}
 .square {
   width: 150px;
   height: 150px;
   float: left;
   margin-left: 10px;
   border: 2px solid black;
+  cursor: crosshair;
 }
 #red {
   background-color: red;
